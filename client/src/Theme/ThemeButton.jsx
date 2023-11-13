@@ -6,6 +6,7 @@ import DarkModeToggle from "react-dark-mode-toggle";
 
 const ThemeButton = () => {
   const [colorTheme, setTheme] = useDarkSide();
+  console.log(colorTheme)
 
   const toggleDarkMode = () => {
     setTheme(colorTheme);

@@ -5,6 +5,7 @@ export default function useDarkSide() {
   const colorTheme = theme === "dark" ? "light" : "dark";
   useEffect(() => {
     const root = window.document.documentElement;
+    // console.log(theme)
     theme === "dark"
       ? root.setAttribute("data-theme", "dark")
       : root.setAttribute("data-theme", "light");

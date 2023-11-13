@@ -4,7 +4,6 @@ import App from "./App.jsx";
 import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Hero from "./components/Hero.jsx";
-import Footer from "./components/Footer.jsx";
 import AboutMe from "./components/AboutMe.jsx";
 import Projects from "./components/Projects.jsx";
 import Contact from "./components/Contact.jsx";

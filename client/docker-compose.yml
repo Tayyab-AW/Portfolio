@@ -1,0 +1,14 @@
+version: "3.4"
+
+services:
+
+ portfolio-website:
+   image: portfolio-website
+   container_name: portfolio
+   environment:
+     - PUID=1000
+     - PGID=1000
+     - TZ=Asia/Karachi  
+   ports:
+     - 8000:8080
+   restart: unless-stopped
