@@ -1,5 +1,5 @@
 
-# Project Title
+# Portfolio
 
 My portfolio created using Vite + React and Tailwind CSS. It is also Docker ready.
 
