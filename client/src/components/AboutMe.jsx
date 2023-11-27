@@ -1,4 +1,3 @@
-import React from "react";
 import Pc from "../assets/pc.png";
 import Laptop from "../assets/laptop.webp";
 import Circle from "../assets/circle.svg";

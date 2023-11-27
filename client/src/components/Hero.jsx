@@ -1,4 +1,3 @@
-import React from "react";
 import Waveimg from "../assets/waving.png";
 import Socials from "./Socials";
 const Hero = () => {

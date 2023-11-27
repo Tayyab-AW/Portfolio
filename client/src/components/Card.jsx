@@ -1,4 +1,3 @@
-import React from "react";
 import { Github_Base_Url } from "../utils/Constants";
 
 const Card = (props) => {

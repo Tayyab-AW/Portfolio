@@ -1,4 +1,3 @@
-import React from "react";
 import {LinkedIn_Base_Url, Github_Base_Url} from "../utils/Constants"
 
 const Socials = () => {

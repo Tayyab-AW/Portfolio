@@ -1,9 +1,3 @@
-import React from "react";
-import CarRental from "../assets/car-rental-full.webp";
-import CoinDom from "../assets/coindom-full.png";
-import GymMate from "../assets/gymate-home.webp";
-import Ecom from "../assets/ecom.webp";
-import { Github_Base_Url } from "../utils/Constants";
 import Card from "./Card";
 import { projects } from "../data/Projects";
 

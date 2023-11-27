@@ -11,7 +11,7 @@ export const projects = [
     Img: CarRental,
     Description:
       "A car rental website is an online platform that allows users to rent cars for personal or business use. The website provides an interface for searching, comparing, and reserving cars.",
-    Hosting: "https://car-rental-ten.vercel.app/",
+    Hosting: "https://car-rental.tayyabaw.com/",
     repoName: "car-rental",
     techStack: ["React", "Tailwind CSS"],
   },
@@ -21,8 +21,8 @@ export const projects = [
     Date: "November 2023",
     Img: CoinDom,
     Description:
-      "Coindom is a crypto app that allows users to search for                  information about various cryptocurrencies in real-time.",
-    Hosting: "https://coindom-crypto-search.vercel.app/",
+      "Coindom is a crypto app that allows users to search for information about various cryptocurrencies in real-time.",
+    Hosting: "https://coindom-crypto-search.tayyabaw.com/",
     repoName: "coindom-crypto",
     techStack: ["React", "Tailwind CSS"],
   },
@@ -32,8 +32,8 @@ export const projects = [
     Date: "November 2023",
     Img: GymMate,
     Description:
-      " A gym website is a comprehensive resource for fitness                  information, className schedules, membership options, and tools to help users achieve their fitness goals.",
-    Hosting: "https://gymate-iota.vercel.app/",
+      " A gym website is a comprehensive resource for fitness  information, class schedules, membership options, and tools to help users achieve their fitness goals.",
+    Hosting: "https://gymate-iota.tayyabaw.com/",
     repoName: "Gymate",
     techStack: ["React", "Tailwind CSS"],
   },
@@ -43,8 +43,8 @@ export const projects = [
     Date: "November 2023",
     Img: Ecom,
     Description:
-      "With a focus on simplicity and clean design, this store                  prioritize user experience, making it easy for customers to                find and purchase the products they need.",
-    Hosting: "https://minimalist-e-commerce.vercel.app/",
+      "With a focus on simplicity and clean design, this store prioritize user experience, making it easy for customers to find and purchase the products they need.",
+    Hosting: "https://minimalist-e-commerce.tayyabaw.com/",
     repoName: "Minimalist-E-commerce",
     techStack: ["React", "Tailwind CSS"],
   },
